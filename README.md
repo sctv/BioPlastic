@@ -1,3 +1,3 @@
 # BioPlastic
 Starch based plastics
-[BioPlasticToys](BioPlasticToys.png)
+![BioPlasticToys.png](BioPlasticToys.png)
